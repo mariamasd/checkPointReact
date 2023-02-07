@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  background-image: url("bagr.jpg");
+  z-index: 32px;
+}
+
+label 
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 23px;
+  margin-right: 32px;
+
+}
+input
+{
+  
+  text-align: center;
+}
+form
+{
+  margin-left: 29%;
+  text-align: center;
+  margin-top: 8%;
+
+}
+.mb-3
+{
+  display: flex;
+}
+.pass
+{
+  margin-left: 119px;
+}
+button
+{
+  
+  /* margin-right: 22px; */
+  border-radius: 5px;
+  background-color: rgb(124, 189, 243);
+  
+  width: 12%;
+  font-size: 22PX;
+}
+.but
+{
+  display: flex;
+  
+}
+
+
